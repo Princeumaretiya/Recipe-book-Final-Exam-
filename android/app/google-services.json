@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147312503769",
+    "project_id": "recipe-bf24c",
+    "storage_bucket": "recipe-bf24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147312503769:android:c8fb85da79bc3b2f3b47c8",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYbA7_Unk1Jfkxb_egAOrqfJHWk29rSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
